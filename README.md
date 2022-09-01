@@ -1,16 +1,14 @@
-### Hi there 👋
+# [TopHill Robotics Lab](https://github.com/tophillrobotics/)
 
-<!--
-**TopHillRobotics/TopHillRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## The Robotics Lab @East China Normal University, Shanghai.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Our research incldes novel hardware and software algorithms for robot locomotion, manipulation and vision. We make these robot hardware and software system applicable in real-world scenarios.
+- Robot path planning
+- Physically-based dynamics simulation
+- Fast collision detection and avoidance
+- Robot vision
+- Applications: Planting Robots, quadruped robot, robotic sewing
+
+[Bilibili](https://space.bilibili.com/504872864/) |
+[YouTube](https://www.youtube.com/channel/UCjd0xUKYSr5-PWKMCTHaxNA)
