@@ -10,5 +10,5 @@ Our research incldes novel hardware and software algorithms for robot locomotion
 - Robot vision
 - Applications: Planting Robots, quadruped robot, robotic sewing
 
-[Bilibili](https://space.bilibili.com/504872864/) |
+[Bilibili](https://space.bilibili.com/504872864/video) |
 [YouTube](https://www.youtube.com/channel/UCjd0xUKYSr5-PWKMCTHaxNA)
